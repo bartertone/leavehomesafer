@@ -1,0 +1,18 @@
+{
+  "name": "leavehomesafer",
+  "version": "1.0.0",
+  "description": "Contains starting code for my tutorial on creating PWAs, check it out here:\\ https://www.youtube.com/watch?v=WbbAPfDVqfY",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "http-server -c-1 -p 8081"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "0.12.3"
+  },
+  "dependencies": {
+    "dateformat": "4.5.1"
+  }
+}

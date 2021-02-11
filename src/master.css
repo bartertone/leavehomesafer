@@ -1,0 +1,47 @@
+body {
+  background: white;
+}
+
+.wrapper {
+  max-height: 500px;
+  display: flex;
+  overflow-x: auto;
+}
+
+.wrapper::-webkit-scrollbar {
+  width: 0;
+}
+
+.wrapper .card {
+  min-width: 300px;
+  height: 350px;
+  line-height: 5px;
+  text-align: center;
+  background-color: white;
+  margin-right: 15px;
+}
+
+.card-text {
+  color: #24b188;
+}
+
+#datetxt {
+  color: white;
+}
+
+#titletxt {
+  color: white;
+}
+
+#upbox {
+  height: 250px;
+  background: #24b188;
+}
+
+.notifications {
+  max-width: 420px;
+}
+
+.shadowtxt {
+  text-shadow: 0px 1px grey;
+}

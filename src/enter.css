@@ -1,0 +1,55 @@
+body {
+  background: #24b188;
+}
+
+.card-text {
+  color: #24b188;
+}
+
+#datetxt {
+  color: white;
+}
+
+.locationtxt {
+  color: #ffd23f;
+}
+
+.titletxt {
+  color: white;
+}
+
+#leavebtn {
+  background-color: #ffd23f;
+  border-radius: 20px;
+}
+
+.button {
+  background-color: #ffd23f;
+  border: none;
+  color: black;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  width: 200px;
+  margin: 2px 2px;
+}
+
+.leavetxt {
+  color: black;
+}
+
+#locationButton {
+  border: 0;
+  background-color: #24b188;
+}
+
+#datebutton{
+  border: 0;
+  background-color: #24b188;
+}
+
+.shadowtxt {
+  text-shadow: 0px 1px grey;
+}

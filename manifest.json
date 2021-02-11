@@ -1,0 +1,22 @@
+{
+    "name" : "LeaveHomeSafe",
+    "short_name" : "安心出行",
+    "display" : "standalone",
+    "start_url" : ".",
+    "orientation" : "portrait",
+    "scope" : "https://bartertone.github.io/",
+    "icons" : [
+        {
+            "src" : "images/AppIcons/Assets.xcassets/AppIcon.appiconset/196.png",
+            "sizes" : "196x196",
+            "type" : "image/png"
+        },
+        {
+            "src" : "images/AppIcons/Assets.xcassets/AppIcon.appiconset/512.png",
+            "sizes" : "512x512",
+            "type" : "image/png"
+        }
+    ],
+    "background_color" : "#24B188",
+    "theme_color" : "#24B188"
+}
